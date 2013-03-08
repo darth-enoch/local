@@ -12,7 +12,7 @@
         <IsA>data</IsA>
         <Summary>Oxygen icon theme</Summary>
         <Description>oxygen-icon-theme is a high quality, photo-realistic icon theme (including both SVG and raster icons) initially created for KDE4.</Description>
-	<Archive sha1sum="e7f9b5fd8fe0e6f6f9c0d744424134497328e65e" type="tarxz">file:///home/idris/Belgeler/2013-master/desktop/lookandfeel/icon-theme-oxygen/oxygen-icons-4.10.0.tar.xz</Archive>
+	<Archive sha1sum="e7f9b5fd8fe0e6f6f9c0d744424134497328e65e" type="tarxz">http://download.kde.org/stable/4.10.0/src/oxygen-icons-4.10.0.tar.xz</Archive>
     </Source>
 
     <Package>
